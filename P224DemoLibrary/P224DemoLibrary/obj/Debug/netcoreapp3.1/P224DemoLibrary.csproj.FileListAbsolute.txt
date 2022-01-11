@@ -1,0 +1,9 @@
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\bin\Debug\netcoreapp3.1\P224DemoLibrary.deps.json
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\bin\Debug\netcoreapp3.1\P224DemoLibrary.dll
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\bin\Debug\netcoreapp3.1\P224DemoLibrary.pdb
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\obj\Debug\netcoreapp3.1\P224DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\obj\Debug\netcoreapp3.1\P224DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\obj\Debug\netcoreapp3.1\P224DemoLibrary.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\obj\Debug\netcoreapp3.1\P224DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\obj\Debug\netcoreapp3.1\P224DemoLibrary.dll
+C:\Users\memme\Desktop\P224\Task\P224DemoLibrary\P224DemoLibrary\obj\Debug\netcoreapp3.1\P224DemoLibrary.pdb

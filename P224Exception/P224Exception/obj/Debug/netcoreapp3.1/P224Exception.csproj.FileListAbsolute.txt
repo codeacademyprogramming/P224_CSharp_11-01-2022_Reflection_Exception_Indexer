@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\bin\Debug\netcoreapp3.1\P224Exception.exe
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\bin\Debug\netcoreapp3.1\P224Exception.deps.json
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\bin\Debug\netcoreapp3.1\P224Exception.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\bin\Debug\netcoreapp3.1\P224Exception.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\bin\Debug\netcoreapp3.1\P224Exception.dll
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\bin\Debug\netcoreapp3.1\P224Exception.pdb
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.dll
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.pdb
+C:\Users\memme\Desktop\P224\Task\P224Exception\P224Exception\obj\Debug\netcoreapp3.1\P224Exception.genruntimeconfig.cache

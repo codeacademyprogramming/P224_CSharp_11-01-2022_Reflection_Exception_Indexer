@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\bin\Debug\netcoreapp3.1\P224Reflection.exe
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\bin\Debug\netcoreapp3.1\P224Reflection.deps.json
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\bin\Debug\netcoreapp3.1\P224Reflection.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\bin\Debug\netcoreapp3.1\P224Reflection.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\bin\Debug\netcoreapp3.1\P224Reflection.dll
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\bin\Debug\netcoreapp3.1\P224Reflection.pdb
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.dll
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.pdb
+C:\Users\memme\Desktop\P224\Task\P224Reflection\P224Reflection\obj\Debug\netcoreapp3.1\P224Reflection.genruntimeconfig.cache

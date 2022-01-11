@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\bin\Debug\netcoreapp3.1\P224Indexer.exe
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\bin\Debug\netcoreapp3.1\P224Indexer.deps.json
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\bin\Debug\netcoreapp3.1\P224Indexer.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\bin\Debug\netcoreapp3.1\P224Indexer.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\bin\Debug\netcoreapp3.1\P224Indexer.dll
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\bin\Debug\netcoreapp3.1\P224Indexer.pdb
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.dll
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.pdb
+C:\Users\memme\Desktop\P224\Task\P224Indexer\P224Indexer\obj\Debug\netcoreapp3.1\P224Indexer.genruntimeconfig.cache
